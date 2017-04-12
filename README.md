@@ -5,3 +5,7 @@
 实例：
 
 ![](https://github.com/xiaohange/TumblrLikeAnimView/blob/master/demo.gif?raw=true)
+
+应用中的效果展示：
+
+![](https://github.com/xiaohange/TumblrLikeAnimView/blob/master/demo2.gif?raw=true)
